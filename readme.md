@@ -4,7 +4,7 @@
 - `yarn install` to install all dependencies.
 - `yarn android` to execute android emulator.
 
-It has not been possible to compile the app on iOS due to a bug introduced in the latest version of React Native that has not yet been fixed.
+The app couldn't be compiled on iOS due to a bug in the latest version of RN, it hasn't been fixed yet,.
 https://github.com/facebook/react-native/issues/34106
 
 ## How to run tests:
